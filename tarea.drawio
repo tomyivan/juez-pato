@@ -1,57 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T01:49:27.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SxYdb0flyAFIWHhn6xp1" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:14:38.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="veGPLkPY93K7DPr9pfkm" version="21.0.4" type="github">
   <diagram name="Página-1" id="dDxZZ1QTz9MJK-hzdLoZ">
-    <mxGraphModel dx="874" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8u683kFg1VxdrmvNKoR9-1" value="CONTROL DE VENTAS DE LIBRERIA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-1" value="CONTROL DE CITAS DE UN CONSULTORIO DENTAL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-2" value="almacenero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-2" value="SECRETARIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.308;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-2" target="8u683kFg1VxdrmvNKoR9-1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-1" target="8u683kFg1VxdrmvNKoR9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="440" y="200" as="targetPoint" />
+            <mxPoint x="390" y="150" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="270" />
-              <mxPoint x="220" y="320" />
-              <mxPoint x="260" y="340" />
-              <mxPoint x="360" y="290" />
-              <mxPoint x="390" y="200" />
+              <mxPoint x="360" y="110" />
+              <mxPoint x="310" y="90" />
+              <mxPoint x="230" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-5" value="REGISTRO DE PRODUCTOS&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-3">
-          <mxGeometry x="0.0492" y="5" relative="1" as="geometry">
-            <mxPoint x="-26" y="13" as="offset" />
+        <mxCell id="8u683kFg1VxdrmvNKoR9-12" value="CONTROL DE AGENDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-11">
+          <mxGeometry x="-0.0824" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-6" value="Cajero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="8u683kFg1VxdrmvNKoR9-24" value="DENTISTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-2" target="8u683kFg1VxdrmvNKoR9-1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-2" target="8u683kFg1VxdrmvNKoR9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="20" as="sourcePoint" />
-            <mxPoint x="346" y="30" as="targetPoint" />
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="480" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="117" y="110" />
-              <mxPoint x="147" y="-100" />
-              <mxPoint x="177" y="160" />
-              <mxPoint x="200" y="10" />
-              <mxPoint x="230" y="50" />
-              <mxPoint x="270" y="70" />
-              <mxPoint x="187" y="-140" />
-              <mxPoint x="317" y="130" />
-              <mxPoint x="347" y="40" />
-              <mxPoint x="440" y="70" />
+              <mxPoint x="220" y="220" />
+              <mxPoint x="300" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-8" value="REGISTRO DE PRODUCTOS&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-7">
-          <mxGeometry x="0.0492" y="5" relative="1" as="geometry">
-            <mxPoint x="-26" y="13" as="offset" />
+        <mxCell id="8u683kFg1VxdrmvNKoR9-27" value="REGISTRO DE CITAS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-25">
+          <mxGeometry x="0.101" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u683kFg1VxdrmvNKoR9-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-24" target="8u683kFg1VxdrmvNKoR9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="490" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="100" />
+              <mxPoint x="580" y="90" />
+              <mxPoint x="530" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u683kFg1VxdrmvNKoR9-30" value="BUSCA CITA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-28">
+          <mxGeometry x="0.0287" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u683kFg1VxdrmvNKoR9-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-1" target="8u683kFg1VxdrmvNKoR9-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="490" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="250" />
+              <mxPoint x="610" y="260" />
+              <mxPoint x="670" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u683kFg1VxdrmvNKoR9-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-29">
+          <mxGeometry x="-0.1035" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
