@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T02:14:38.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="veGPLkPY93K7DPr9pfkm" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:47:58.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="84Inocota7Lys9iqEiAP" version="21.0.4" type="github">
   <diagram name="Página-1" id="dDxZZ1QTz9MJK-hzdLoZ">
     <mxGraphModel dx="1028" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8u683kFg1VxdrmvNKoR9-1" value="CONTROL DE CITAS DE UN CONSULTORIO DENTAL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-1" value="&lt;b&gt;CONTROL DE VENTA DE ENTRADAS AL CINE POR INTERNET&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="110" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-2" value="SECRETARIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-2" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u683kFg1VxdrmvNKoR9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-1" target="8u683kFg1VxdrmvNKoR9-2">
@@ -21,12 +21,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-12" value="CONTROL DE AGENDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-11">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-12" value="CONTROL DE STOCK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-11">
           <mxGeometry x="-0.0824" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-24" value="DENTISTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-24" value="CONTROLADOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8u683kFg1VxdrmvNKoR9-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-2" target="8u683kFg1VxdrmvNKoR9-1">
@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-27" value="REGISTRO DE CITAS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-25">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-27" value="COMPRA ENTRADA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-25">
           <mxGeometry x="0.101" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-30" value="BUSCA CITA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-28">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-30" value="REGISTRA CARTELERA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-28">
           <mxGeometry x="0.0287" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -71,8 +71,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8u683kFg1VxdrmvNKoR9-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-29">
-          <mxGeometry x="-0.1035" y="-1" relative="1" as="geometry">
+        <mxCell id="8u683kFg1VxdrmvNKoR9-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8u683kFg1VxdrmvNKoR9-1" target="8u683kFg1VxdrmvNKoR9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="490" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8u683kFg1VxdrmvNKoR9-33" value="CONTROL DE CARTELERA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8u683kFg1VxdrmvNKoR9-32">
+          <mxGeometry x="-0.1189" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
