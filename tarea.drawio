@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T02:09:56.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CgpwVPNw2Q1QFox3R2hm" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T02:13:01.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0TrlKBmPIlccoLKaO500" version="21.0.6" type="github">
   <diagram name="Página-1" id="dDxZZ1QTz9MJK-hzdLoZ">
-    <mxGraphModel dx="2076" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,13 +53,13 @@
           <mxGeometry x="410" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-67" value="ATC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="-410" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-68" value="VENTAS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="10" y="-160" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-69" value="&lt;b&gt;HORARIOS PELICLUAS&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-110" width="130" height="130" as="geometry" />
+          <mxGeometry x="400" y="-130" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-70" value="&lt;b&gt;SOLCITA INFORME&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-80" width="130" height="130" as="geometry" />
@@ -179,10 +179,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-88" value="&lt;b&gt;CONFIRMA SALDO&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-570" width="130" height="130" as="geometry" />
+          <mxGeometry x="-100" y="-480" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-89" value="&lt;b&gt;REALIZA PAGO&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-240" width="130" height="130" as="geometry" />
+          <mxGeometry x="-390" y="-160" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sqJapn00UR0Wo3543Oi8-82" target="sqJapn00UR0Wo3543Oi8-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,8 +200,8 @@
             <mxPoint x="40" y="-240" as="sourcePoint" />
             <mxPoint x="90" y="-290" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="-400" />
-              <mxPoint x="30" y="-370" />
+              <mxPoint x="10" y="-340" />
+              <mxPoint x="30" y="-330" />
               <mxPoint x="70" y="-340" />
             </Array>
           </mxGeometry>
@@ -212,8 +212,7 @@
             <mxPoint x="-320" y="-170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-280" y="-360" />
-              <mxPoint x="-280" y="-420" />
-              <mxPoint x="-305" y="-460" />
+              <mxPoint x="-325" y="-400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -243,15 +242,15 @@
             <mxPoint x="-150" y="-620" as="sourcePoint" />
             <mxPoint x="-100" y="-670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-140" y="-580" />
-              <mxPoint x="-170" y="-580" />
-              <mxPoint x="-210" y="-580" />
+              <mxPoint x="-120" y="-490" />
+              <mxPoint x="-170" y="-530" />
+              <mxPoint x="-210" y="-530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-96" value="CONSULTA SALDO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sqJapn00UR0Wo3543Oi8-94">
           <mxGeometry x="-0.4554" y="-3" relative="1" as="geometry">
-            <mxPoint x="-43" y="-5" as="offset" />
+            <mxPoint x="-60" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sqJapn00UR0Wo3543Oi8-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sqJapn00UR0Wo3543Oi8-67" target="sqJapn00UR0Wo3543Oi8-88">
@@ -259,8 +258,8 @@
             <mxPoint x="-210" y="-440" as="sourcePoint" />
             <mxPoint x="-100" y="-490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-260" y="-450" />
-              <mxPoint x="-210" y="-440" />
+              <mxPoint x="-290" y="-400" />
+              <mxPoint x="-210" y="-390" />
               <mxPoint x="-110" y="-440" />
             </Array>
           </mxGeometry>
